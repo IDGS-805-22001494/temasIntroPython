@@ -9,6 +9,7 @@ def funcion1():
 def funcion2():
     print("hola, soy funcion2")
 
+
 def run():
     os.system("cls")
     print("menu opciones")
