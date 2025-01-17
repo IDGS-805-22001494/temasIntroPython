@@ -1,0 +1,4 @@
+Una linea de texto en un archivo
+Otra linea de texto en el mismo archivo
+Y otra mas
+Esto es una cadenaEsto es otra cadena 3
