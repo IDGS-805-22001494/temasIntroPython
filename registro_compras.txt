@@ -1,0 +1,9 @@
+
+Nombre: nayelli
+Total pagado: $73
+
+Nombre: sergio
+Total pagado: $22
+
+=== Resumen Final ===
+Total recaudado: $95
